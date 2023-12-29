@@ -1,0 +1,1 @@
+gcc hungary_01.cpp -o hungary_01  -lstdc++ -lpthread

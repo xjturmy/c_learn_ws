@@ -1,0 +1,1 @@
+gcc leanr_kalman.cpp -o leanr_kalman  -lstdc++ -lpthread -lboost_system -lboost_timer

@@ -1,1 +1,0 @@
-gcc thread_5.cpp -o thread  -lstdc++ -lpthread

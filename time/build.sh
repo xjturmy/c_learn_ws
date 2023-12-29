@@ -1,0 +1,1 @@
+gcc time_2.cpp -o time  -lstdc++ -lpthread -lboost_system -lboost_timer

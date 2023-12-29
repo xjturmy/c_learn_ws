@@ -1,0 +1,1 @@
+gcc try_4.cpp -o try  -lstdc++ 
